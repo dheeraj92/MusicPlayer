@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/dheerajraaj/.android/build-cache/33fe67c35bde83408252b17d2b3a3ae72543d37a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d35b0c675f84ee3d8a12f858d311f2e0fa9d023e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dheerajraaj/.android/build-cache/150ad2ac5cd93bbe7b076b9d5a8ac15da2d8de92/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_51eef2de5ab76ba41363b0211f75dc5cdc0a3f5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e8894b13ba4c658bb31f764b9e8213cd2dce4cf4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b63f466370350bc999367ee91b3c535540312b8">
+        <dex dex="/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7691adf5f4a010fd87160bf139f63f7a143c1666/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dheerajraaj/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_54cd68794d6dc37ccae940d6eae0fffe9ef16e8e/classes.dex" />
+    </item>
+
+</items>

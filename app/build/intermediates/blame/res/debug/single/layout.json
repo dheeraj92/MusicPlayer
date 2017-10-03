@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/layout/playlist.xml",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/layout/playlist.xml"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/layout/rounded_corner.xml",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/layout/rounded_corner.xml"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/layout/playlist_item.xml",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/layout/playlist_item.xml"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/layout/mainview.xml",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/layout/mainview.xml"
+    }
+]

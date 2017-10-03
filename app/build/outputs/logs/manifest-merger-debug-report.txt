@@ -1,0 +1,78 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:1:1-50:12
+	package
+		ADDED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:2:5-30
+		INJECTED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:5:22-78
+uses-sdk
+ADDED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/dheerajraaj/.android/build-cache/33fe67c35bde83408252b17d2b3a3ae72543d37a/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/dheerajraaj/.android/build-cache/150ad2ac5cd93bbe7b076b9d5a8ac15da2d8de92/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-core-utils:25.3.1] /Users/dheerajraaj/.android/build-cache/33fe67c35bde83408252b17d2b3a3ae72543d37a/output/AndroidManifest.xml:23:9-58
+	android:targetSdkVersion
+		ADDED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:25:9-38
+		INJECTED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:24:9-35
+		INJECTED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:28:5-48:19
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/dheerajraaj/.android/build-cache/33fe67c35bde83408252b17d2b3a3ae72543d37a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/dheerajraaj/.android/build-cache/150ad2ac5cd93bbe7b076b9d5a8ac15da2d8de92/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:31:9-41
+	android:allowBackup
+		ADDED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:29:9-35
+	android:icon
+		ADDED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:30:9-41
+	android:theme
+		ADDED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:32:9-40
+activity#com.musicplayer.MainActivity
+ADDED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:34:9-43:20
+	android:label
+		ADDED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:36:13-45
+	android:configChanges
+		ADDED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:37:13-63
+	android:name
+		ADDED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:35:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:41:27-74
+activity#com.musicplayer.FullList
+ADDED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:45:9-47:40
+	android:label
+		ADDED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:46:13-41
+	android:name
+		ADDED from /Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/AndroidManifest.xml:47:13-37
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-core-utils:25.3.1] /Users/dheerajraaj/.android/build-cache/33fe67c35bde83408252b17d2b3a3ae72543d37a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/dheerajraaj/.android/build-cache/150ad2ac5cd93bbe7b076b9d5a8ac15da2d8de92/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-core-utils:25.3.1] /Users/dheerajraaj/.android/build-cache/33fe67c35bde83408252b17d2b3a3ae72543d37a/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-core-utils:25.3.1] /Users/dheerajraaj/.android/build-cache/33fe67c35bde83408252b17d2b3a3ae72543d37a/output/AndroidManifest.xml:26:9-47

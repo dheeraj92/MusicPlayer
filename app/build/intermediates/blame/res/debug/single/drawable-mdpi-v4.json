@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_playlist.xml",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-mdpi/btn_playlist.xml"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_shuffle.xml",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-mdpi/btn_shuffle.xml"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_shuffle_focused.xml",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-mdpi/btn_shuffle_focused.xml"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/gradient_bg_hover.xml",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-mdpi/gradient_bg_hover.xml"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_repeat_focused.xml",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-mdpi/btn_repeat_focused.xml"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_backward.xml",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-mdpi/btn_backward.xml"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/seekbar_progress_bg.xml",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-mdpi/seekbar_progress_bg.xml"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/gradient_bg.xml",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-mdpi/gradient_bg.xml"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_play.xml",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-mdpi/btn_play.xml"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_repeat.xml",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-mdpi/btn_repeat.xml"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_previous.xml",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-mdpi/btn_previous.xml"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_pause.xml",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-mdpi/btn_pause.xml"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/seekbar_progress.xml",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-mdpi/seekbar_progress.xml"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_next.xml",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-mdpi/btn_next.xml"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_forward.xml",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-mdpi/btn_forward.xml"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/list_selector.xml",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-mdpi/list_selector.xml"
+    }
+]

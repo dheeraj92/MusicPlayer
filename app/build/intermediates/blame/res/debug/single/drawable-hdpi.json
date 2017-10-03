@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/img_btn_repeat_pressed.png",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-hdpi/img_btn_repeat_pressed.png"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/img_btn_pause.png",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-hdpi/img_btn_pause.png"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/img_btn_shuffle.png",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-hdpi/img_btn_shuffle.png"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/adele.png",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-hdpi/adele.png"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/img_btn_previous_pressed.png",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-hdpi/img_btn_previous_pressed.png"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/img_seekbar_bg.png",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-hdpi/img_seekbar_bg.png"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/img_btn_forward.png",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-hdpi/img_btn_forward.png"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/img_btn_playlist.png",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-hdpi/img_btn_playlist.png"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/img_btn_next_pressed.png",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-hdpi/img_btn_next_pressed.png"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/track_info_bg.png",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-hdpi/track_info_bg.png"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/img_seekbar_progress_blue.png",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-hdpi/img_seekbar_progress_blue.png"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/img_btn_playlist_pressed.png",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-hdpi/img_btn_playlist_pressed.png"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/img_btn_next.png",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-hdpi/img_btn_next.png"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/bg.png",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-hdpi/bg.png"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/mp3icon.png",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-hdpi/mp3icon.png"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/img_btn_play_pressed.png",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-hdpi/img_btn_play_pressed.png"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/img_btn_backward.png",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-hdpi/img_btn_backward.png"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/img_btn_forward_pressed.png",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-hdpi/img_btn_forward_pressed.png"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/img_btn_repeat.png",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-hdpi/img_btn_repeat.png"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/img_btn_play.png",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-hdpi/img_btn_play.png"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/img_btn_previous.png",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-hdpi/img_btn_previous.png"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/img_btn_shuffle_pressed.png",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-hdpi/img_btn_shuffle_pressed.png"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/img_btn_backward_pressed.png",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-hdpi/img_btn_backward_pressed.png"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/seek_handler.png",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-hdpi/seek_handler.png"
+    },
+    {
+        "merged": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi/img_btn_pause_pressed.png",
+        "source": "/Users/dheerajraaj/StudioProjects/MusicPlayer/app/src/main/res/drawable-hdpi/img_btn_pause_pressed.png"
+    }
+]
